@@ -1,0 +1,5 @@
+{
+    "require": {
+        "p2made/yii2-sb-admin-theme": "*"
+    }
+}

@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'thsarabun';
+    src: url('../fonts/thsarabun.eot');
+    src: url('../fonts/thsarabun.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/thsarabun.woff') format('woff'),
+         url('../fonts/thsarabun.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.main_container{
+	font-family:"thsarabun";
+	padding:100px;
+	background-color:#FFF;	
+}
